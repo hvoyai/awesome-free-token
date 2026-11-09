@@ -1,6 +1,5 @@
 # Awesome Free Token
 
-> 信息来源：[AIHOT 免费 Token](https://aihot.news/free-tokens)、[TokenMost](https://tokenmost.com/)。查阅日期：2026-11-10；表内「来源日期」为来源站标注日期。
 
 ## 目录
 
